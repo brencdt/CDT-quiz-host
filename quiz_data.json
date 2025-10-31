@@ -1,0 +1,29 @@
+[
+  { 
+    "q": "Who was AS Roma’s first-ever captain in Serie A?", 
+    "a": [
+      {"t":"Attilio Ferraris", "c":true},
+      {"t":"Fulvio Bernardini", "c":false},
+      {"t":"Guido Masetti", "c":false},
+      {"t":"Amedeo Amadei", "c":false}
+    ]
+  },
+  { 
+    "q": "In which season did Francesco Totti win the European Golden Shoe?", 
+    "a": [
+      {"t":"2005–06", "c":false},
+      {"t":"2006–07", "c":true},
+      {"t":"2007–08", "c":false},
+      {"t":"2003–04", "c":false}
+    ]
+  },
+  { 
+    "q": "Which manager led Roma to their 2000–01 Serie A title?", 
+    "a": [
+      {"t":"Fabio Capello", "c":true},
+      {"t":"Luciano Spalletti", "c":false},
+      {"t":"Zdeněk Zeman", "c":false},
+      {"t":"Rudi Garcia", "c":false}
+    ]
+  }
+]
